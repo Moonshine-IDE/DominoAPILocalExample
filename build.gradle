@@ -27,7 +27,7 @@ targetCompatibility = 1.8
 
 dependencies {
     // Local JAR dependency
-    compile files(notesJarPath)
+    implementation files(notesJarPath)
 }
 
 /*
