@@ -24,7 +24,7 @@ By default, the Notes API will prompt you to authenticate through STDIN.  To let
 4. Enable the "Don't prompt for a password from other Notes-based programs" checkbox
 5. Click OK
 
-TODO:  Image
+![image](https://user-images.githubusercontent.com/24532731/150602114-43d491f0-e45e-4228-baf7-067b8eb790d2.png)
 
 ### macOS Permissions
 
@@ -36,7 +36,7 @@ In order to run a Notes application from Moonshine-IDE (or other applications or
 5. Unlock the settings if this is not already done
 6. Enable the checkbox next to Moonshine.app and java.  Note that there may be multiple "java" entries in this list for different SDKs that you use.  You can add an entry manually with the "+" button.
 
-TODO:  More clarification, screenshots
+![image](https://user-images.githubusercontent.com/24532731/150602139-2c8a5300-6873-4a32-a316-8967e8d11162.png)
 
 If you do not feel comfortable with these permissions, you can run the application manually in Terminal.
 
