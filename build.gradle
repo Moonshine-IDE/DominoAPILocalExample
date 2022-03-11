@@ -10,6 +10,12 @@ mainClassName = 'DominoAPILocalExample'
 String notesInstallation = '/Applications/HCL Notes.app/Contents/MacOS/'
 String notesJarPath = "$notesInstallation/jvm/lib/ext/Notes.jar"
 
+//println "Environment:  '${System.env}'"
+println "Environment"
+System.env.each {
+    println "${it.key}:${it.value}"
+}
+
 repositories {
     mavenCentral()
 }
