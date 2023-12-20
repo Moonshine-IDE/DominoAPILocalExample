@@ -10,7 +10,7 @@ Example project to run a Java Notes API application with [Moonshine-IDE](https:/
 Required Dependencies:
 - HCL Notes 11.0 or Higher
 - Java 8 (currently required for Notes API)
-- Gradle 5.4.1 (current version supported by Moonshine-IDE)
+- Gradle 5 or higher (current version supported by Moonshine-IDE is 7.5.1, also tested with 5.4.1)
 
 Optional, but recommended:
 - [Moonshine-IDE](https://moonshine-ide.com/)
